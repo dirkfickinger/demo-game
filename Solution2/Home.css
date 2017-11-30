@@ -1,0 +1,30 @@
+﻿body
+{
+    background-color: green;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
+
+
+
+.container-fluid {
+    background-color: #f8f9fa !important;
+}
+
+.container-fluid sec {
+    margin-top: 2em;
+}
+
+.box {
+    margin: auto;
+    width: 75%;
+    height: 75%;
+}
+
+.carousel-item {
+    height: 550px;
+    justify-content: space-around;
+}
