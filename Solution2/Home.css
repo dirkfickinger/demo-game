@@ -4,8 +4,13 @@
 }
 
 img {
-    width: auto;
-    height: auto;
+    display: block;
+}
+
+
+.img-plus {
+    margin-left: 75px;
+
 }
 
 
@@ -14,9 +19,15 @@ img {
     background-color: #f8f9fa !important;
 }
 
-.container-fluid sec {
-    margin-top: 2em;
+.container-fluid section {
+
 }
+
+.col {
+    margin-top: -20px;
+    text-align: center;
+}
+
 
 .box {
     margin: auto;
