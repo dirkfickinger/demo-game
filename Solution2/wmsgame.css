@@ -8,9 +8,17 @@ li {
 }
 
 img {
-    margin-left: 250px;
+    margin-left: 75px;
+}
+.jumbotron jumbotron-fluid {
+    margin-bottom: -50px;
 }
 
-.card text-center {
-   margin: 0px;
+
+.card  {
+    margin-top:    -50px;
+}
+
+.card-header {
+    padding-top: -40px;
 }
